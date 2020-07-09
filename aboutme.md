@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Not so important details about me
 ---
 
-My name is Akshat Jain. I have the following qualities:
+Hi there! My name is Ashutosh Raj. I have the following qualities:
 
-- I can code (Kinda)
-- I'm cool.
+- I can code. (but breaks a lotsssssssssss of working code hehe :p)
+- I am from India. (Isn't that obivious)
+- I have lots of money. I can even buy <> . (Just kidding, its joke :( )
 
 What else do you need?
 
 ### My History
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Lazy to write this shit. Send food.
