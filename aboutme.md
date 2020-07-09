@@ -12,6 +12,8 @@ Hi there! My name is Ashutosh Raj. I have the following qualities:
 
 What else do you need?
 
+Btw if you can read my more Discord-Oriented Bio [here](https://ashutosh.sucks-at.codes/me).
+
 ### My History
 
 Lazy to write this shit. Send food.
